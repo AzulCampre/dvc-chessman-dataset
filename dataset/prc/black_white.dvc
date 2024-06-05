@@ -1,0 +1,6 @@
+outs:
+- md5: 8ee8183c82f7906d862f371321e2163d.dir
+  size: 4486405
+  nfiles: 86
+  hash: md5
+  path: black_white
